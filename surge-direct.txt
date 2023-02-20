@@ -1,0 +1,6 @@
+.kaufmich.com
+.tnc.com
+.thenetcircle.lab
+.feib.com.tw
+.sinopac.com # 永豐銀
+.76.211.in-addr.arpa # 永豐銀
