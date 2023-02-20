@@ -1,0 +1,5 @@
+payload:
+  - '+.superad.cc' # gimy ad
+  - '+.bspapp.com' # engbang
+  - '+.dcloud.net' # engbang
+  - '+.wocloud.cn' # engbang

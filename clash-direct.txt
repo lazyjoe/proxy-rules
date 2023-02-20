@@ -1,0 +1,6 @@
+payload:
+  - '+.kaufmich.com'
+  - '+.tnc.com'
+  - '+.thenetcircle.lab'
+  - '+.feib.com.tw'
+  - '+.sinopac.com'
