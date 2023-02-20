@@ -1,2 +1,3 @@
 payload:
   - '+.iheart.com'
+  - '+.youtubekids.com'
