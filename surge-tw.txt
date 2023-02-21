@@ -11,3 +11,4 @@
 .technews.tw
 .sexlikereal.com
 .tiktok.com
+github.com
