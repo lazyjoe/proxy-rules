@@ -3,4 +3,4 @@ payload:
   - '+.bspapp.com' # engbang
   - '+.dcloud.net' # engbang
   - '+.wocloud.cn' # engbang
-  - '+.ad.xiaomi.com'
+  - '+.ad.xiaomi.com' 

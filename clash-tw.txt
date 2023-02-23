@@ -1,14 +1,15 @@
 payload:
-  - '+.bot.com.tw'
+  - '+.bot.com.tw' 
   - '+.openai.com' # open ai
   - '+.auth0.com' # open ai
-  - '+.netflix.com'
+  - '+.netflix.com' 
   - '+.nflxso.net' # Nexflix
-  - '+.googleapis.cn'
-  - '+.bing.com'
-  - '+.skype.com'
-  - '+.ptt.cc'
-  - '+.funvps.com'
-  - '+.technews.tw'
-  - '+.sexlikereal.com'
-  - '+.tiktok.com'
+  - '+.googleapis.cn' 
+  - '+.bing.com' 
+  - '+.skype.com' 
+  - '+.ptt.cc' 
+  - '+.funvps.com' 
+  - '+.technews.tw' 
+  - '+.sexlikereal.com' 
+  - '+.tiktok.com' 
+  - '+github.com' 

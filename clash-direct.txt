@@ -1,6 +1,7 @@
 payload:
-  - '+.kaufmich.com'
-  - '+.tnc.com'
-  - '+.thenetcircle.lab'
-  - '+.feib.com.tw'
-  - '+.sinopac.com'
+  - '+.kaufmich.lab' 
+  - '+.kaufmich.com' 
+  - '+.tnc.com' 
+  - '+.thenetcircle.lab' 
+  - '+.feib.com.tw' 
+  - '+.sinopac.com' # 永豐銀

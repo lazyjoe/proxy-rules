@@ -1,3 +1,4 @@
+.kaufmich.lab
 .kaufmich.com
 .tnc.com
 .thenetcircle.lab

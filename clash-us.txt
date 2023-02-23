@@ -1,3 +1,4 @@
 payload:
-  - '+.iheart.com'
-  - '+.youtubekids.com'
+  - '+.iheart.com' 
+  - '+.youtubekids.com' 
+  - '+.ihrhls.com' 
