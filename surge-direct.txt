@@ -5,3 +5,5 @@
 .thenetcircle.lab
 .feib.com.tw
 .sinopac.com # 永豐銀
+cip.cc
+ifconfig.cc
