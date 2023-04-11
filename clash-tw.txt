@@ -13,3 +13,4 @@ payload:
   - '+.sexlikereal.com' 
   - '+.tiktok.com' 
   - '+github.com' 
+  - '+.nflxext.com' 
