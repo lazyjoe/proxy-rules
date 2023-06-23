@@ -2,3 +2,4 @@ payload:
   - '+.iheart.com' 
   - '+.youtubekids.com' 
   - '+.ihrhls.com' 
+  - '+.khanacademy.org' 
