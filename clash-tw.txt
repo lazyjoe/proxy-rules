@@ -14,3 +14,5 @@ payload:
   - '+.tiktok.com' 
   - '+github.com' 
   - '+.nflxext.com' 
+  - '+.github.com' 
+  - '+.githubusercontent.com' 
