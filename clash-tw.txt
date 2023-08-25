@@ -5,12 +5,10 @@ payload:
   - '+.netflix.com' 
   - '+.nflxso.net' # Nexflix
   - '+.googleapis.cn' 
-  - '+.bing.com' 
+  - '+www.bing.com' 
   - '+.skype.com' 
   - '+.ptt.cc' 
-  - '+.funvps.com' 
   - '+.technews.tw' 
-  - '+.sexlikereal.com' 
   - '+.tiktok.com' 
   - '+github.com' 
   - '+.nflxext.com' 
