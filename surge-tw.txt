@@ -13,3 +13,4 @@ github.com
 .nflxext.com
 .github.com
 .githubusercontent.com
+.bulianglin.com

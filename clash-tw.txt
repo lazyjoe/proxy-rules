@@ -14,3 +14,4 @@ payload:
   - '+.nflxext.com' 
   - '+.github.com' 
   - '+.githubusercontent.com' 
+  - '+.bulianglin.com' 
