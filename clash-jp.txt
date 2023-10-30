@@ -1,0 +1,3 @@
+payload:
+  - '+.nhk.or.jp' 
+  - '+.dmm.co.jp' 
