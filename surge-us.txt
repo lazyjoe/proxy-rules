@@ -3,4 +3,6 @@
 .ihrhls.com
 .khanacademy.org
 .xtadiumvr.com
-.xtadium.com
+.akamaized.net
+.oculus.com
+.meta.com
