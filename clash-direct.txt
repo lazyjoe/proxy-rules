@@ -1,5 +1,6 @@
 payload:
   - '+.tnclab.dev' 
+  - '+.ideawise.lab' 
   - '+.kaufmich.lab' 
   - '+.kaufmich.com' 
   - '+.tnc.com' 
