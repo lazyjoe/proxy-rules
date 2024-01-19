@@ -1,9 +1,3 @@
-.tnclab.dev
-.ideawise.lab
-.kaufmich.lab
-.kaufmich.com
-.tnc.com
-.thenetcircle.lab
 .feib.com.tw
 .sinopac.com # 永豐銀
 cip.cc
