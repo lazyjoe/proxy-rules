@@ -2,3 +2,4 @@
 .sinopac.com # 永豐銀
 cip.cc
 ifconfig.cc
+.ideawisegroup.com # sentry
