@@ -1,6 +1,6 @@
 payload:
-  - '+.feib.com.tw'
+  - '+.feib.com.tw' 
   - '+.sinopac.com' # 永豐銀
-  - '+cip.cc'
-  - '+ifconfig.cc'
-  - '+.ideawisegroup.com'
+  - '+cip.cc' 
+  - '+ifconfig.cc' 
+  - '+.ideawisegroup.com' # sentry

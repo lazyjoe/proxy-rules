@@ -6,3 +6,4 @@
 .akamaized.net
 .oculus.com
 .meta.com
+.phind.com
