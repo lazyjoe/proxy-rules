@@ -1,2 +1,3 @@
 IP-CIDR,61.172.227.229/32 # wx read ad
 IP-CIDR,220.181.174.0/24  # mx read ad
+IP-CIDR,180.163.150.0/24  # kids doodle
