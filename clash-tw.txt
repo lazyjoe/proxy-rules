@@ -14,4 +14,6 @@ payload:
   - '+.nflxext.com' 
   - '+.github.com' 
   - '+.githubusercontent.com' 
-  - '+.bulianglin.com' 
+  - '+.bulianglin.com'
+  - '+.perplexity.ai'
+  - 'assistant-s3-pa.googleapis.com'
