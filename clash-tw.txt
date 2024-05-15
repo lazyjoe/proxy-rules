@@ -16,4 +16,3 @@ payload:
   - '+.githubusercontent.com' 
   - '+.bulianglin.com'
   - '+.perplexity.ai'
-  - 'assistant-s3-pa.googleapis.com'
