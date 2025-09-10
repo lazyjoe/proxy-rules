@@ -3,6 +3,6 @@ payload:
   - '+.sinopac.com' # 永豐銀
   - '+cip.cc' 
   - '+ifconfig.cc' 
-  - 'symfony.mac16'
-  - 'symfony.mini'
-  - 'symfony.arch'
+  - '+symfony.mac16'
+  - '+symfony.mini'
+  - '+symfony.arch'
