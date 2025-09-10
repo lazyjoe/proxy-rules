@@ -3,4 +3,6 @@ payload:
   - '+.sinopac.com' # 永豐銀
   - '+cip.cc' 
   - '+ifconfig.cc' 
-  - '+.ideawisegroup.com' # sentry
+  - '+.symfony.mac16'
+  - '+.symfony.mini'
+  - '+.symfony.arch'
